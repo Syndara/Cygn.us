@@ -12,7 +12,7 @@ Current commands are as follows:
 
     c!o || c!osu (username) (mode : defaults to standard)
 
-Returns a user profile for mania formatted with Discord's Embed Border.
+Returns a user profile for osu! formatted with Discord's Embed Border.
     
     c!av || c!avatar (username || usermention : defaults to bot)
 
