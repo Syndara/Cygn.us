@@ -10,10 +10,10 @@ All commands are accessed via the prefix of c! or a mention on the bot running t
 
 Current commands are as follows:
 
-c!o || c!osu (username) (mode : defaults to standard)
+    c!o || c!osu (username) (mode : defaults to standard)
 
-    Returns a user profile for mania formatted with Discord's Embed Border.
+Returns a user profile for mania formatted with Discord's Embed Border.
     
-c!av || c!avatar (username || usermention : defaults to bot)
+    c!av || c!avatar (username || usermention : defaults to bot)
 
-    Embeds an image of the selected users avatar at the resolution of 1024x1024.  Handles .png and .gif for nitro users.
+Embeds an image of the selected users avatar at the resolution of 1024x1024.  Handles .png and .gif for nitro users.
